@@ -29,7 +29,7 @@ greenlet==2.0.2
 httplib2==0.22.0
 idna==3.4
 ipykernel==6.16.2
-ipython==8.14.0
+ipython==7.34.0
 itsdangerous==2.1.2
 jedi==0.19.0
 Jinja2==3.1.2
@@ -62,9 +62,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
-PyAudio==0.2.13
 pycparser==2.21
-pydub==0.25.1
 Pygments==2.16.1
 pyinstaller==5.13.0
 pyinstaller-hooks-contrib==2023.7
